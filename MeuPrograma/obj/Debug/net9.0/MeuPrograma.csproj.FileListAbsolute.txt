@@ -1,0 +1,14 @@
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\bin\Debug\net9.0\MeuPrograma.exe
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\bin\Debug\net9.0\MeuPrograma.deps.json
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\bin\Debug\net9.0\MeuPrograma.runtimeconfig.json
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\bin\Debug\net9.0\MeuPrograma.dll
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\bin\Debug\net9.0\MeuPrograma.pdb
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\MeuPrograma.dll
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\refint\MeuPrograma.dll
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\MeuPrograma.pdb
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\cazac\Desktop\Site Catálogo\MeuPrograma\obj\Debug\net9.0\ref\MeuPrograma.dll
